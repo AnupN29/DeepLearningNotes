@@ -2,6 +2,7 @@
 
 This is the fourth course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 ## Extra Notes
+* [MobileNet](https://docs.google.com/document/d/1EJ9ltKRURszi6RmCKOkXIZdz8FNGEFYwk-i_hzu7KkU/edit?usp=sharing)
 * [Semantic Segmentation with U-Net](https://docs.google.com/document/d/1oF6RsYuq3OhpBgAeQLpe8wSnAZNrtHhUSA47W7DdWIs/edit?usp=sharing)
 
 ## Table of contents
